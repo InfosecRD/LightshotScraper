@@ -12,6 +12,7 @@
 
 == DISCLAIMERS ==
 
+- If you try to multithread this, you're gonna have a bad time.
 - You're about to go down into the internet's deepest underbelly of strangeness. Words cannot describe it. You've been warned.
 - I'm not responsible if you get yourself in trouble because you did something stupid with this. Don't be stupid™.
 - Probably very unsuitable to those under 18, and those who are easily offended.
