@@ -1,10 +1,14 @@
 # LightshotScraper
 
-TODO:
-- Find an AI/ML wizard who can automate the agonizing process of sorting out the contents.
+== INTRODUCTION ==
+- Simple bash script to scrape and store screenshots from Lightshot / prnt.sc.
+- Seems there's a lot of "interesting" things in there. Private crypto keys, API keys, sensitive financial details, passwords, etc.
 
-Simple bash script to scrape and store screenshots from Lightshot / prnt.sc.
-Seems there's a lot of "interesting" things in there. Private crypto keys, API keys, sensitive financial details, passwords, etc.
+== INSTRUCTIONS ==
+- Go get a valid CF token and add it in line 10.
+
+== TODO ==
+- Find an AI/ML wizard who can automate the agonizing process of sorting out the contents.
 
 == DISCLAIMERS ==
 
